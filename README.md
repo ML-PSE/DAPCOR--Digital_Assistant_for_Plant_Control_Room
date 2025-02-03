@@ -1,10 +1,17 @@
-# DAPCOR--Digital_Assistant_for_Plant_Control_Room
-A virtual assistant that reduces the barrier to information access by accepting voice-based queries in natural language to analyze process data. 
-
-reduces the barrier to access of information and advanced data analysis; get your process data analytics at your fingertips; no more having to open dashboards or trending tools just to get some quick information;
-allows plant managers or plant operators perform data analytics in their natural language
+# DAPCOR -- Digital Assistant for Plant Control_Room
+**A virtual assistant that reduces the barrier to information access by accepting voice-based queries in natural language to analyze process data.**
 
 ![DAPCOR in Plant Control Room Illustration](/img/DAPCOR_usageIllustration.jpg)
+
+DAPCOR is created for plant managers and plant operators  reduces the barrier to access of information and advanced data analysis; get your process data analytics at your fingertips; no more having to open dashboards or trending tools just to get some quick information;
+allows plant managers or plant operators perform data analytics in their natural language
+
+Sample questions that DAPCOR is being designed to answer: 
+
+- Are all my sensors healthy?
+- What's the forecast for the site power consumption for the week?
+- Which valvs are approaching end of their life span?
+- Are ther any active alerts in any of my plant dashboards?
 
 ## Tool Demo: 
 
