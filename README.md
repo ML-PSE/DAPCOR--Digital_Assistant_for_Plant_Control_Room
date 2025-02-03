@@ -3,6 +3,10 @@ A virtual agent that takes in voice-based queries to analyze process data.
 
 ![DAPCOR in Plant Control Room Illustration](/img/DAPCOR_usageIllustration.jpg)
 
+## Tool Demo: 
+
+<youtube link>
+
 ## Current Features: 
 
 - listens to voice commands; 'wakes up' upon hearing 'OK Digital Assistant'
@@ -17,6 +21,7 @@ The following features will soon be added to DAPCOR in upcoming releases:
 - ability to accept follow-up queries
 - RAG abilities to utilize enterprise documents while framing response
 - more robustness (to different 'error' scenarios)
+- centralized deployment (instead of on-site deploymnet)
 
 ## Repository content: 
 
