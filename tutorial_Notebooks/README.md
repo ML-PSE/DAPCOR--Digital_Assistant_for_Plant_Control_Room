@@ -1,6 +1,6 @@
-MIT License
+The code in these notebooks are adapted from the AI Data Science Team's (https://github.com/business-science/ai-data-science-team) notebooks.
+The original notebooks were shared under the MIT License which reads as follows:
 
-Copyright (c) 2025 Ankur Kumar
 Copyright (c) 2024 ai-data-science-team authors
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
@@ -20,3 +20,5 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
+
+Adapted by: Ankur Kumar @ ProcessIndustryAI LLC [January 2025]
