@@ -3,7 +3,7 @@
 
 ![DAPCOR in Plant Control Room Illustration](/img/DAPCOR_usageIllustration.jpg)
 
-DAPCOR - created for plant managers and plant operators - reduces the barrier to access of information and advanced data analysis. Users can ask their queries in their natural language, and DAPCOR will fecth and process relevant data as needed and provide appropriate answer. The idea is that if you are in a plant control room and you want to know something, you should not have to go to your computer and open dashboards or trending tools just to get some quick information - DAPCOR should be able to do that for you. (DAPCOR is not meant to replace the dashboards and trending tools, but make ther results more accessible to control room personnel.)
+DAPCOR - created for plant managers and plant operators - reduces the barrier to access of information and advanced data analysis. Users can ask their queries in their natural language, and DAPCOR will fetch and process relevant data as needed and provide appropriate answer. The idea is that if you are in a plant control room and you want to know something, you should not have to go to your computer and open dashboards or trending tools just to get some quick information - DAPCOR should be able to do that for you. (DAPCOR is not meant to replace the dashboards and trending tools, but make ther results more accessible to control room personnel.)
 
 Sample questions that DAPCOR is being designed to answer: 
 
