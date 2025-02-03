@@ -3,15 +3,16 @@
 
 ![DAPCOR in Plant Control Room Illustration](/img/DAPCOR_usageIllustration.jpg)
 
-DAPCOR is created for plant managers and plant operators  reduces the barrier to access of information and advanced data analysis; get your process data analytics at your fingertips; no more having to open dashboards or trending tools just to get some quick information;
-allows plant managers or plant operators perform data analytics in their natural language
+DAPCOR - created for plant managers and plant operators - reduces the barrier to access of information and advanced data analysis. Users can ask their queries in their natural language, and DAPCOR will fecth and process relevant data as needed and provide appropriate answer. The idea is that if you are in a plant control room and you want to know something, you should not have to go to your computer and open dashboards or trending tools just to get some quick information - DAPCOR should be able to do that for you. (Not replacing the dashboard and trending but make ther results more accessinble.)
 
 Sample questions that DAPCOR is being designed to answer: 
 
 - Are all my sensors healthy?
 - What's the forecast for the site power consumption for the week?
-- Which valvs are approaching end of their life span?
-- Are ther any active alerts in any of my plant dashboards?
+- Which valves are approaching end of their life span?
+- Are ther any active or pending alerts in any of my plant dashboards?
+- Anything unusual going on in my plant?
+- Is my plant operating efficiently?
 
 ## Tool Demo: 
 
@@ -33,23 +34,26 @@ The following features will soon be added to DAPCOR in upcoming releases:
 - more robustness (to different 'error' scenarios)
 - centralized deployment (instead of on-site deploymnet)
 
+
 ## Repository content: 
 
-- Clone the repository OR download repository as ZIP and unzip the files
-- No 
+- tutorial notebooks:
+- DAPCOR:
+- DAPCOR_interface.py
 
 ## How to run DAPCOR: 
 
+- Prerequisites: Python, OpenAI API key 
 - Clone the repository OR download repository as ZIP and unzip the files
-- W
+- Install the packages mentioned in the requirements.txt file (**pip install -r requirements.txt**), preferrably in a new virtual environment
 - With DAPCOR--DIGITAL_ASSISTANT_FOR_PLANT_CONTROL_ROOM as the working directory, execute the following command in the terminal
 
     *streamlit run ./DAPCOR_interface.py*
 
 ## How to customize DAPCOR for your specific Database: 
 
-- Clone the repository OR download repository as ZIP and unzip the files
-- No warranties o
+- Put your Sqlite database in the 'data' folder
+- OR, 
 
 ## License
 
