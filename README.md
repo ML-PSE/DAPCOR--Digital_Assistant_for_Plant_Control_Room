@@ -16,7 +16,7 @@ Sample questions that DAPCOR is being designed to answer:
 
 ## Tool Demo: 
 
-<youtube link>
+[See on YouTube](https://youtu.be/sxgx0wNplPs)
 
 ## Current Features: 
 
@@ -33,7 +33,6 @@ The following features will soon be added to DAPCOR in upcoming releases:
 - RAG abilities to utilize enterprise documents while framing response
 - more robustness (to different 'error' scenarios)
 - centralized deployment (instead of on-site deploymnet)
-
 
 ## Repository content: 
 
