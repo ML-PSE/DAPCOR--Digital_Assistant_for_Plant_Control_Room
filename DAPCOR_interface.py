@@ -1,4 +1,4 @@
-'''
+"""
 ********************************************************************
                   User Interface for DAPCOR
 ********************************************************************
@@ -9,8 +9,8 @@ Current Features:
     -- plots appropriate graphs based on the query
 
 To run:
-    -- type streamlit run .\DAPCOR_interface.py in the terminal
-'''
+    -- type streamlit run ./DAPCOR_interface.py in the terminal
+"""
 
 #%% import packages
 import streamlit as st, sqlalchemy as sql, pandas as pd, string

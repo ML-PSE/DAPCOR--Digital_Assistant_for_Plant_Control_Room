@@ -1,6 +1,7 @@
 # DAPCOR--Digital_Assistant_for_Plant_Control_Room
 A virtual agent that takes in voice-based queries to analyze process data.
 
+![DAPCOR in Plant Control Room Illustration](/img/DAPCOR_usageIllustration.jpg)
 
 ## Current Features: 
 
@@ -15,7 +16,7 @@ The following features will soon be added to DAPCOR in upcoming releases:
 - ability to perform automated advanced data analysis using Python to adequately respond to user queries
 - ability to accept follow-up queries
 - RAG abilities to utilize enterprise documents while framing response
-- more robustness
+- more robustness (to different 'error' scenarios)
 
 ## Repository content: 
 
@@ -28,7 +29,7 @@ The following features will soon be added to DAPCOR in upcoming releases:
 - W
 - With DAPCOR--DIGITAL_ASSISTANT_FOR_PLANT_CONTROL_ROOM as the working directory, execute the following command in the terminal
 
-    *streamlit run .\DAPCOR_interface.py*
+    *streamlit run ./DAPCOR_interface.py*
 
 ## How to customize DAPCOR for your specific Database: 
 
