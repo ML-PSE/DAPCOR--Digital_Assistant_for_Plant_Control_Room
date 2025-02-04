@@ -9,7 +9,6 @@ Sample questions that DAPCOR is being designed to answer:
 
 - Are all my sensors healthy?
 - What's the forecast for the site power consumption for the week?
-- Which valves are approaching end of their life span?
 - Are there any active or pending alerts in any of my plant dashboards?
 - Anything unusual going on in my plant?
 - Is my plant operating efficiently?
